@@ -95,9 +95,7 @@ By default, `CMH.py` will:
    - Right: log-magnitude Fourier power spectrum of `G`.
 4. Save an animation to:
 
-```text
-![Cosmic Morphodynamics]("https://github.com/StonerIsh420/cosmic-morphodynamics/blob/d7739fa255ab64a075acf7b6d63cf5c8a1fcebe5/results/cosmic_morphodynamics_spiral.gif")
-```
+![Cosmic Morphodynamics](https://github.com/StonerIsh420/cosmic-morphodynamics/blob/d7739fa255ab64a075acf7b6d63cf5c8a1fcebe5/results/cosmic_morphodynamics_spiral.gif)
 
 (If the `results/` directory does not exist, create it or adjust the save path in `CMH.py`.)
 
