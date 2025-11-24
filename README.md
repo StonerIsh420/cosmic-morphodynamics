@@ -96,7 +96,7 @@ By default, `CMH.py` will:
 4. Save an animation to:
 
 ```text
-results/cosmic_morphodynamics_spiral.gif
+![Cosmic Morphodynamics]results/cosmic_morphodynamics_spiral.gif
 ```
 
 (If the `results/` directory does not exist, create it or adjust the save path in `CMH.py`.)
