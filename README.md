@@ -54,6 +54,9 @@ Use it as a **pattern-formation lab**, not as a cosmological replacement.
     ├── cosmic_morphodynamics_spiral.gif
     └── cosmic_morphodynamics_spiral_small.gif
 ```
+![1](https://github.com/StonerIsh420/cosmic-morphodynamics/blob/e38a0eb8b4833b5d4f8b58505aa8dd36c5e395e6/results/1.png)
+![4](https://github.com/StonerIsh420/cosmic-morphodynamics/blob/e38a0eb8b4833b5d4f8b58505aa8dd36c5e395e6/results/4.png)
+![7](https://github.com/StonerIsh420/cosmic-morphodynamics/blob/e38a0eb8b4833b5d4f8b58505aa8dd36c5e395e6/results/7.png)
 
 - `CMH.py` — main simulation script.
 - `results/` — sample outputs from a reference run.
