@@ -54,6 +54,9 @@ Use it as a **pattern-formation lab**, not as a cosmological replacement.
     ├── cosmic_morphodynamics_spiral.gif
     └── cosmic_morphodynamics_spiral_small.gif
 ```
+![1](https://github.com/StonerIsh420/cosmic-morphodynamics/blob/e38a0eb8b4833b5d4f8b58505aa8dd36c5e395e6/results/1.png)
+![4](https://github.com/StonerIsh420/cosmic-morphodynamics/blob/e38a0eb8b4833b5d4f8b58505aa8dd36c5e395e6/results/4.png)
+![7](https://github.com/StonerIsh420/cosmic-morphodynamics/blob/e38a0eb8b4833b5d4f8b58505aa8dd36c5e395e6/results/7.png)
 
 - `CMH.py` — main simulation script.
 - `results/` — sample outputs from a reference run.
@@ -95,9 +98,7 @@ By default, `CMH.py` will:
    - Right: log-magnitude Fourier power spectrum of `G`.
 4. Save an animation to:
 
-```text
-results/cosmic_morphodynamics_spiral.gif
-```
+![Cosmic Morphodynamics](https://github.com/StonerIsh420/cosmic-morphodynamics/blob/d7739fa255ab64a075acf7b6d63cf5c8a1fcebe5/results/cosmic_morphodynamics_spiral.gif)
 
 (If the `results/` directory does not exist, create it or adjust the save path in `CMH.py`.)
 
@@ -148,15 +149,11 @@ You can also cite the two internal papers directly:
 
 ## 7. License
 
-Choose and state your preferred license here (for example):
-
 ```text
 MIT License
 
 Copyright (c) 2025 Stoner
 ```
-
-If you omit this section, GitHub will treat the repository as “all rights reserved” by default.
 
 ---
 
