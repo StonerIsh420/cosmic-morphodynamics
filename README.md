@@ -149,15 +149,11 @@ You can also cite the two internal papers directly:
 
 ## 7. License
 
-Choose and state your preferred license here (for example):
-
 ```text
 MIT License
 
 Copyright (c) 2025 Stoner
 ```
-
-If you omit this section, GitHub will treat the repository as “all rights reserved” by default.
 
 ---
 
